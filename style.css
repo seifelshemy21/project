@@ -1,0 +1,225 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    height: 1300px;
+   
+   
+   
+    
+}
+.h2{
+    color: blanchedalmond;
+}
+button:hover{
+   background-color: red;
+}
+
+
+.h2b{
+    display: flex;
+    justify-content: space-between;
+   
+    background-image: url(pexels-adonyi-gábor-1414651.jpg);
+   padding: 50px;
+   margin-top: 60px;
+  
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 236, 236);
+    font-size: 150%;
+    
+
+}
+.h1h1{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 20px;
+    color: cornsilk;
+    width: 100%;
+    position: fixed;
+   
+    }
+    
+
+ .all{
+    display: flex;
+   flex-flow: row wrap;
+   justify-content: space-evenly;
+   align-items: stretch;
+   margin: 20px ;
+   padding: 30px ;
+   background-image: url(healthy-food-banner-vector-18185895.jpg) ;
+  }
+ 
+.div1{
+    background-image: url(pexels-anna-shvets-3683116.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+}
+
+.div2{
+    background-image: url(pexels-becerra-govea-photo-5774154.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div3{
+    background-image: url(pexels-ela-haney-89247.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;  
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div4{
+    background-image: url(pexels-engin-akyurt-2042591.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+.div5{
+    background-image: url(pexels-foodie-factor-543730.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div6{
+    background-image: url(pexels-foodie-factor-566566.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div7{
+    background-image: url(pexels-karolina-grabowska-4033329.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+.div8{
+    background-image: url(pexels-karolina-grabowska-6659900.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div9{
+    background-image: url(pexels-magda-ehlers-1300972.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div10{
+    background-image: url(pexels-vanessa-loring-5966630.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div11{
+    background-image: url(pexels-vie-studio-7421204.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.div12{
+    background-image: url(pexels-alleksana-6107727.jpg);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    border-radius:5% ;
+
+}
+
+.details{
+    display: flex;
+background-color: rgb(255, 236, 236);
+justify-content: space-between;
+padding: 80px;
+color: black;
+}
+
+h3{
+display: flex;
+justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
